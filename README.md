@@ -1,6 +1,8 @@
-# MUSE Pi Pro (进迭时空) 通过 SPI 采集 MRS6240 (正和微芯) 毫米波雷达数据
+# MRS6240 (正和微芯) 毫米波雷达 — Linux SPI 数据采集
 
-**一句话**：在 Linux（MUSE Pi Pro / 进迭时空 K1）上，通过 SPI 直连正和微芯 MRS6240 毫米波雷达，运行 Python 脚本采集原始点云与呼吸信号数据，**不需要 Windows、不需要 CH347 USB 桥、不需要官方上位机**。
+> 仓库：[MRS6240_mmWave_radar_spi_collect_data_linux](https://github.com/winwin52/MRS6240_mmWave_radar_spi_collect_data_linux)
+
+**一句话**：在 Linux（MUSE Pi Pro / 进迭时空 K1 / 树莓派等）上，通过 SPI 直连正和微芯 MRS6240 毫米波雷达，运行 Python 脚本采集原始点云与呼吸信号数据。**不需要 Windows、不需要 CH347 USB 桥、不需要官方上位机**。
 
 ---
 
